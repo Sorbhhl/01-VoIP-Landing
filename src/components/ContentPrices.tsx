@@ -61,7 +61,7 @@ export default function ContentPrices() {
   return (
     <div className="flex flex-col md:flex-row w-full bg-gray-100 md:flex-row-reverse">
       <div className="w-full md:w-1/2 py-8 px-6 md:py-16 md:px-12">
-          <h2 className="mb-2 lg:mb-6 text-2xl font-bold tracking-tight leading-tight text-gray-900 dark:text-white md:text-4xl">
+          <h2 className="mb-2 text-gray-900 lg:mb-6 text-2xl font-bold tracking-tight leading-tight text-gray-900 dark:text-white md:text-4xl">
             Tarifas
           </h2>
           <TablePrices th={th_tarifas_llamadas} tr={tr_tarifas_llamadas} />

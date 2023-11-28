@@ -1,8 +1,8 @@
 export default function ClientsLogos() {
   return (
-    <section className="bg-white dark:bg-gray-900 shadow-md py-8 px-6 md:py-16 md:px-12">
+    <section className="bg-white shadow-md py-8 px-6 md:py-16 md:px-12">
       <div className="mx-auto max-w-screen-xl px-4">
-          <h2 className="mb-10 lg:mb-16 text-2xl font-bold tracking-tight leading-tight text-center text-gray-900 dark:text-white md:text-4xl">
+          <h2 className="mb-10 lg:mb-16 text-gray-900 text-2xl font-bold tracking-tight leading-tight text-center text-gray-900 dark:text-white md:text-4xl">
             Clientes que confían en nosotros
           </h2>
         <div className="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 lg:grid-cols-6 dark:text-gray-400">

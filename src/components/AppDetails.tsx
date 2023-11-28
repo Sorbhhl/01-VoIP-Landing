@@ -1,7 +1,7 @@
 export default function AppDetails() {
   return (
     <div className="w-full py-8 px-6 md:py-16 md:px-12">
-      <h2 className="mb-2 lg:mb-6 text-2xl font-bold tracking-tight leading-tight text-gray-900 dark:text-white md:text-4xl">
+      <h2 className="mb-2 text-gray-900 lg:mb-6 text-2xl font-bold tracking-tight leading-tight text-gray-900 dark:text-white md:text-4xl">
         Sobre VoIP
       </h2>
       <p>
